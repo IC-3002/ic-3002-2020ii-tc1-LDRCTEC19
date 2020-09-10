@@ -1,3 +1,4 @@
+"Luis Diego Rodriguez Cruz 2018148987"
 def e_cuadratica(n):
     # Implemente esta función
     if n == 0:
